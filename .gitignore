@@ -1,0 +1,17 @@
+
+# Python
+myenv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# Editor
+.vscode/
+
+# Logs
+*.log
